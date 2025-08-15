@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Programação Back-End - PHP, novo teste, novo</h1>
+    <h1>Outro h1</h1>
     <?php
     echo "Comando pelo php $a novo";
     ?>
